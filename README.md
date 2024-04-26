@@ -1,9 +1,9 @@
 
 # Magic 8 Ball App
 
-MyCard is a simple app designed to showcase a digital business card. It allows users to display their image, name, job title, and contact information easily.
+It's an app like a magical 8 ball that can answer all of life's difficult questions. A button can be pressed to modify the ball's color.
 
-## MyCard Preview
+## Magic 8 Ball App Preview
 
 ![Magic 8 Ball App](magic_8_ball_gif.gif)
 
