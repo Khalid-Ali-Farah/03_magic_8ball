@@ -1,16 +1,17 @@
-# magic_8ball
 
-A new Flutter project.
+# Magic 8 Ball App
 
-## Getting Started
+MyCard is a simple app designed to showcase a digital business card. It allows users to display their image, name, job title, and contact information easily.
 
-This project is a starting point for a Flutter application.
+## MyCard Preview
 
-A few resources to get you started if this is your first Flutter project:
+![Magic 8 Ball App](magic_8_ball_gif.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## Installation
+
+To install Magic 8 Ball App, you need to have Flutter installed on your system.
+
